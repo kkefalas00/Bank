@@ -1,0 +1,50 @@
+.d1{
+	
+	color:black;
+	background-color:cyan;
+	width:60%;
+	height:400px;
+	margin-left:20%;
+	margin-top:20px;
+	padding:20px;
+	
+}
+
+#d2 h1{
+	
+	color:black;
+	width:35%;
+	margin-left:32.5%;
+	margin-top:100px;
+	font-size:35px;
+	
+}
+
+.but{
+	
+	width:70px;
+	height:40px;
+	color:black;
+	
+}
+
+.form{
+	
+	color:black;
+	background-color:cyan;
+	width:30%;
+	height:450px;
+	margin-left:35%;
+	margin-top:20px;
+	padding:20px;
+	
+	
+}
+
+.dp{
+	
+	width:50%;
+	margin-left:25%;
+	margin-top:100px;
+	
+}
